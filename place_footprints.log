@@ -1,0 +1,30 @@
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'win32'
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.9.10 (main, Feb 11 2022, 04:18:11) [MSC v.1928 64 bit (AMD64)]'
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.2)
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.5
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x0000024D8A9B6670>
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP3 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint F1 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint U1 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP1 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C2 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J2 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C3 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C1 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D2 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J1 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J3 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint L1 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D1 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-62EC85CA does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP4 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R1 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP2 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint RV1 on root level
+08-05 10:58:01 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint REF** does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+08-05 11:02:14 root 64:ModuleNotFoundError("No module named 'svg2mod.exporter'")
+08-05 11:04:08 root 64:ModuleNotFoundError("No module named 'svg2mod.exporter'")

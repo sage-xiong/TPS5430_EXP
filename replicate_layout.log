@@ -1,0 +1,22 @@
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 295:Plugin executed on: 'win32'
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 296:Plugin executed with python version: '3.9.10 (main, Feb 11 2022, 04:18:11) [MSC v.1928 64 bit (AMD64)]'
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 297:KiCad build version: (6.0.2)
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 298:Plugin version: 1.1.2
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 299:Frame repr: <wx._core.Frame object at 0x0000024D8A9B6670>
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 323:Preparing replicator with L1 as a reference
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint REF** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint kibuzzard-62EC85CA does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint REF** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint REF** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint REF** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 351:source anchor footprint is 'L1'
+Located on: []
+With filenames: []
+With sheet_id:[]
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 358:Corresponding footprints are 
+[('L1', [])]
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 370:Showing dialog
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 376:Toolbar position: wx.Point(1693, 146)
+08-05 10:57:45 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 382:Dialog position: wx.Point(1329, 146)
+08-05 10:57:50 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 224:User canceled the dialog
